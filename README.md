@@ -1,2 +1,2 @@
 # Impressive-login-web-page
-"Its new sign up page" created by html nd css
+"Its new sign up page" created by html and css
